@@ -29,12 +29,15 @@
 flowchart
     Start((Start))
     End((End))
-    A0{Haow}
-    B0{{Woah}}
-    C0(("yes"))
-    D0["no"]
-    E0("id")
+    A0{Ask if user wants to play}
+    B0(Pick random story template)
+    C0(Keep asking user to fill out prompts)
+    D0(Substitute all answers into template)
+    E0(Display final output)
 
     Start-->
-    A0 --> B0 --> C0 & D0 & E0
+    A0 -- Yes --> B0
+    A0 -- No
     --> End
+    B0 --> C0 --> D0 --> E0
+    --> A0
