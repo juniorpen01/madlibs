@@ -1,0 +1,7 @@
+How to Choose
+
+How to choose a {{ .Noun }}? Well, it's very simple. First, you set up a {{ .Noun }}.
+Then, you iterate over each {{ .Noun }} and ask, "{{ .Question }}?" If not, then you
+instantly pick {{ .Adjective }} {{ .Noun }}. Else, you ask whether it is {{ .Condition }} or
+not. Then you keep asking for more conditions until it is not the case, which
+then you instantly pick it.

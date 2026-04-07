@@ -1,0 +1,6 @@
+The Great Adventure
+
+It was a {{ .Adjective }} day when I grabbed my {{ .Noun }} and set out on an adventure. I
+{{ .Verb }} past the {{ .Adjective }} {{ .Plural noun }}, climbed a {{ .Adjective }} hill, and found
+a {{ .Noun }} waiting for me at the top. Suddenly, a {{ .Animal }} appeared and <verb,
+past tense> away with it!

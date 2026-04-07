@@ -1,0 +1,8 @@
+Alien Encounter
+
+
+
+While camping in the {{ .Place }}, I saw a bright {{ .Color }} light in the sky. A
+{{ .Adjective }} spaceship landed, and a {{ .Number }}-eyed alien with a {{ .Noun }} stepped
+out. It offered me a {{ .Noun }} and said, “{{ .Silly word }}!” We {{ .Verb, past tense }} all
+night until the ship flew away.

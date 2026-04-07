@@ -1,0 +1,6 @@
+A Day at the Zoo
+
+Today I went to the zoo and saw a {{ .Adjective }} {{ .Animal }} jumping up and down in
+its cage. It {{ .Verb, past tense }} through the bars and stole my {{ .Noun }}! I ran
+after it, but it was too {{ .Adjective }} for me to catch. I ended up trading it for
+a {{ .Noun }} from a nearby {{ .Place }}.

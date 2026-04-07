@@ -1,0 +1,7 @@
+The Haunted House
+
+
+Last night, I crept into the {{ .Adjective }} house on {{ .Street name }}. Inside, there
+was a {{ .Noun }} floating in the air and a {{ .Adjective }} whisper that said,
+“{{ .Exclamation }}!” I {{ .Verb, past tense }} so fast I dropped my {{ .Noun }} and didn’t
+stop until I reached the {{ .Noun }}.
